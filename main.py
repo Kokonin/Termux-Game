@@ -1,5 +1,4 @@
 import random
-from turtle import color
 from colorama import colorama_text
 import colorama
 from pygame import Color
